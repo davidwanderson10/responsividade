@@ -14,3 +14,6 @@ Passos:
 9. Preparar as alterações para o commit com o comando: git add .
 10. Realizar o commit com o comando: git commit -m "mensagem de commit"
 11. Subir as atualizações para o repositório remoto: git push
+
+12. Prática em equipe. By Ivan JR.
+
